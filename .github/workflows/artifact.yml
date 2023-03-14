@@ -3,7 +3,7 @@ name: Artifact
 on: [push]
 
 env: 
-  ARTIFCT_NAME: myartifact
+  ARTIFACT_NAME: myartifact
   
 jobs:
   main:
